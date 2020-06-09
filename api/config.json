@@ -1,0 +1,51 @@
+{
+  "client_id": 1,
+  "path": "D:\\test\\",
+  "path_linux": "/root/log/",
+  "account_key": "b8aa7173bba3470e390d787219b2112e",
+  "account": [
+    {
+      "user": "15012334",
+      "password": "e5RZQEeC"
+    }
+  ],
+  "trade_port": 8601,
+  "trade_ip": "61.152.102.111",
+  "auto_save": true,
+  "resume_type": 2,
+  "out_count": 1,
+  "order": [
+    {
+      "instrument_id": "600090",
+      "exchange": 1,
+      "price": 7,
+      "quantity": 200,
+      "side": 1,
+      "price_type": 1,
+      "business_type": 0,
+      "position_effect": 0
+    }
+  ],
+  "quote_ip": "61.152.102.110",
+  "quote_port": 8602,
+  "quote_user": "15012334",
+  "quote_password": "e5RZQEeC",
+  "quote_ticker": {
+    "instrument": [
+      "002024"
+    ],
+    "exchange": 2
+  },
+  "hb_interval": 15,
+  "quote_buffer_size": 128,
+  "quote_protocol": 1,
+  "host_ip": "120.27.164.138",
+  "host_port": 7750,
+  "host_user": "test18-guest",
+  "host_monitor_name": "test18-monitor",
+  "host_monitor_password": "asd123456",
+  "market_size": 2724,
+  "eps": 1000000,
+  "time_window": 100,
+  "sell_thresholds": 8000000
+}
